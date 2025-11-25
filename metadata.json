@@ -1,0 +1,5 @@
+{
+  "name": "OffNetWalkie Web Prototype",
+  "description": "A high-fidelity React web prototype of the OffNetWalkie offline messenger. It features a Telegram/WhatsApp-inspired UI, P2P simulation, and deep Gemini integration for message analysis, smart replies, and content rewriting.",
+  "requestFramePermissions": []
+}
